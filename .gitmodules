@@ -3,4 +3,4 @@
 	url = https://github.com/akheron/jansson
 [submodule "vendor/foobar2000_sdk"]
 	path = vendor/foobar2000_sdk
-	url = https://github.com/duckfromdiscord/foobar2000-sdk-modified
+	url = https://github.com/duckfromdiscord/foobar2000-SDK
