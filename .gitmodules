@@ -1,6 +1,6 @@
 [submodule "vendor/jansson"]
 	path = vendor/jansson
-	url = https://github.com/akheron/jansson
+	url = https://github.com/duckfromdiscord/jansson
 [submodule "vendor/foobar2000_sdk"]
 	path = vendor/foobar2000_sdk
 	url = https://github.com/reupen/foobar2000-sdk-unmodified
